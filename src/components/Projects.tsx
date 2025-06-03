@@ -29,7 +29,7 @@ const Projects = () => {
   description: "Designed and developed a responsive portfolio website to showcase my projects, skills, and experience using React, HTML, CSS, and JavaScript.",
   technologies: ["React", "HTML", "CSS", "JavaScript"],
   link: "https://github.com/manimegalai2003/portfolio", // <-- Your GitHub repo URL
-  demo: "https://your-portfolio-link.com", // <-- Your live portfolio URL
+  demo: "https://personal-portfolio-gamma-olive.vercel.app/", // <-- Your live portfolio URL
   category: "Web Development",
   image: "💼",
   stats: { pages: "5+", visitors: "1K+" }
@@ -39,7 +39,7 @@ const Projects = () => {
   description: "Developed a weather prediction application using OpenWeatherMap API, providing real-time weather updates and forecasts with a clean, responsive interface.",
   technologies: ["HTML", "CSS", "JavaScript", "OpenWeatherMap API"],
   link: "https://github.com/manimegalai2003/Weather-Prediction-",
-  demo: "https://your-weather-demo-link.com",
+  demo: "https://weather-prediction-w5qy.vercel.app/",
   category: "Web Application",
   image: "⛅",
   stats: { cities: "100+", accuracy: "Real-time" }
